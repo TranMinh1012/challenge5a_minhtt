@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "f8-shop"
+		},
+		{
+			"path": "Career\\Java-Web-DevPro\\frontend33"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend33"
+	}
+}

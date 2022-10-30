@@ -1,0 +1,10 @@
+Nếu mà làm 8 tiếng thì khả năng là:
+TH1: - Sáng: 8h đến 12h
+     - Chiều: 1h đến 5h
+TH2: - Sáng: 8h30 đến 12h30
+     - Chiều: 1h30 đến 5h30
+Tiêu chí khi xếp lịch:
+	1. Nên xếp lịch có thể đi làm từ 5 đến 6 buổi một tuần
+	tương đương 20h-24h(thường là 24h).
+	2. Lịch học nên trống vào(6 buổi trống/tuần): + Sáng và không học kíp 12h
+				   		      + Chiều rảnh cả chiều và không học kíp 6h
